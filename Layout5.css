@@ -956,8 +956,8 @@ margin-top: 10%;
     text-align: center;
     background: #FE1C22;
 background: linear-gradient(to right, #ff0008 40%, #ff00d0 50%, #7300ff 60%);
-/* -webkit-background-clip: text;
--webkit-text-fill-color: transparent; */
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent; 
 }
 .p6-button
 {
